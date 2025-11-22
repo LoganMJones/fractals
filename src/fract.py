@@ -7,3 +7,5 @@ def f(z):
     return np.square(z) - 1
 
 
+z = [4, 1-0.2j, 1.6]
+f(z)
